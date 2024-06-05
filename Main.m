@@ -16,3 +16,7 @@ a+b= c; % upldate
 
 % update main only keep this on main 
 c= 1+2;
+
+
+% update main but not add any functions
+d=1+2;
