@@ -12,3 +12,7 @@ b = 2;
 
 
 a+b= c; % upldate
+
+
+% update main only keep this on main 
+c= 1+2;
